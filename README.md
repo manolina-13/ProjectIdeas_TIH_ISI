@@ -1,4 +1,4 @@
-# Unsupervised Learning with PCA and KMeans on Wine & MNIST Datasets
+# Unsupervised Learning with PCA and KMeans on MNIST and Wine Datasets
 
 This project demonstrates the application of **unsupervised learning** techniques — specifically **dimensionality reduction** using **Principal Component Analysis (PCA)** and **clustering** with the **K-Means algorithm** — on two benchmark datasets:
 
